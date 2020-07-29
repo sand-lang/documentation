@@ -1,3 +1,3 @@
-# SAN documentation
+# Xenon documentation
 
-Standard libraries and syntax documentation for SAN.
+Standard libraries and syntax documentation for Xenon.
