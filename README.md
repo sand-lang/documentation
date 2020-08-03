@@ -1,3 +1,3 @@
-# Xenon documentation
+# Sand documentation
 
-Standard libraries and syntax documentation for Xenon.
+Standard libraries and syntax documentation for Sand.
